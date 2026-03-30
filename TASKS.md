@@ -4,7 +4,7 @@ Create these as GitHub issues and assign them to students.
 
 ## Beginner tasks
 
-1. Fix the `Welcom` typo in the homepage heading.
+1. Fix the `Welcome` typo in the homepage heading.
 2. Improve the README run instructions.
 3. Add a footer to the homepage with a support email.
 4. Change the `Add task` button text to `Add item`.
